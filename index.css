@@ -177,6 +177,7 @@
   .section-one h2 {
     font-size: 2.125rem;
     margin: 1rem 0;
+    font-weight: bold;
   }
   
   .section-one h2 span {
@@ -237,10 +238,6 @@
     text-decoration: none;
   }
   
-  .grid li a:hover {
-    color: var(--accent-clr);
-  }
-  
   footer .icons ul {
     display: flex;
     justify-content: space-between;
@@ -252,5 +249,13 @@
     background: var(--accent-clr);
     padding: 9px;
     border-radius: 50%;
+  }
+ .grid-container  li a i {
+    color: var(--light-clr);
+    background: var(--accent-clr);
+    padding: 9px;
+    border-radius: 50%;
+    justify-content: baseline;
+    flex-direction: column;
   }
   
