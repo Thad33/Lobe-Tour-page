@@ -175,9 +175,9 @@
   }
   
   .section-one h2 {
-    font-size: 2.125rem;
+    font-size: 80px;
     margin: 1rem 0;
-    font-weight: bold;
+    font-weight: 900;
   }
   
   .section-one h2 span {
@@ -257,5 +257,8 @@
     border-radius: 50%;
     justify-content: baseline;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
   }
   
