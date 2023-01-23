@@ -267,4 +267,15 @@
     gap: 5px;
     list-style: none;
   }
-  
+  .icon ul:hover{
+    cursor: pointer;
+  }
+   .fa-solid.fa-message:hover{
+    font-size: 6em;
+  }
+  .fa-solid.fa-twitter:hover{
+    font-size: 6em;
+  }
+  .fa-solid.fa-youtube:hover{
+    font-size: 6em;
+  }
