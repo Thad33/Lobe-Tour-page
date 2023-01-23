@@ -259,6 +259,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
+  }
+  
+   .icons ul {
+    display: flex;
+    flex-direction: colum;
+    gap: 5px;
+    list-style: none;
   }
   
